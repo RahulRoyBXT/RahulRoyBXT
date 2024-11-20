@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](rahulroy.netlify.app)
 <h1 align="center">Hi 👋, I'm Rahul Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer with a B. Tech in Information Technology from Netaji Subhash Engineering College. Proficient in React, JavaScript, CSS, and Tailwind, with hands-on experience building and delivering multiple projects. Committed to solving technical challenges and contributing to innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/rahulroycob" target="blank"><img src="https://img.shields.io/twitter/follow/rahulroycob?logo=twitter&style=for-the-badge" alt="rahulroycob" /></a> </p>

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [rahulroy.netlify.app](https://rahulroydev.netlify.app/)
+- 👨‍💻 All of my projects are available at [rahulroydev.netlify.app](https://rahulroydev.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@engg.dev.in](https://medium.com/@engg.dev.in)
 

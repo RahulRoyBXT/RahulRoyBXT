@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS, React, GSAP**
 
-- 📫 How to reach me **rahulroy.it2021@gmail.com**
+- 📫 How to reach me **rahul.roybak@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ezq2zH3I5NPCcZFNwwHIH-emZlzJVV3s/view?usp=sharing](https://drive.google.com/file/d/1Ezq2zH3I5NPCcZFNwwHIH-emZlzJVV3s/view?usp=sharing)
 

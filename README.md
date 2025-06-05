@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](rahulroy.netlify.app)
+[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://www.rahulroy.live/)
 <h1 align="center">Hi 👋, I'm Rahul Roy</h1>
 <h3 align="center">Frontend Developer with a B. Tech in Information Technology from Netaji Subhash Engineering College. Proficient in React, JavaScript, CSS, and Tailwind, with hands-on experience building and delivering multiple projects. Committed to solving technical challenges and contributing to innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [rahulroydev.netlify.app](https://rahulroydev.netlify.app/)
+- 👨‍💻 All of my projects are available at [rahulroydev.netlify.app](https://www.rahulroy.live/)
 
 - 📝 I regularly write articles on [https://medium.com/@engg.dev.in](https://medium.com/@engg.dev.in)
 
